@@ -1,5 +1,5 @@
-## SunshineWash Window
+# SunshineWash Window
 Website of window cleaning company
 
-# Slogan:
+### Slogan:
 Za žhavým leskem vašich oken stojí SunshineWash
